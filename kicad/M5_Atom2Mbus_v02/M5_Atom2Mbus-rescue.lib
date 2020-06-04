@@ -1,0 +1,609 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# +3V3
+#
+DEF +3V3 #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+3V3" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +3V3-M5_Universal_v02-rescue
+#
+DEF +3V3-M5_Universal_v02-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+3V3-M5_Universal_v02-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +3V3-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF +3V3-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+3V3-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +5V
+#
+DEF +5V #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+5V" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +5V-M5_Universal_v02-rescue
+#
+DEF +5V-M5_Universal_v02-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+5V-M5_Universal_v02-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +5V-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF +5V-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+5V-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +BATT
+#
+DEF +BATT #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+BATT" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +BATT 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +BATT-M5_Universal_v02-rescue
+#
+DEF +BATT-M5_Universal_v02-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+BATT-M5_Universal_v02-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +BATT 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# +BATT-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF +BATT-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "+BATT-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +BATT 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# ADP3338akcz-3.3-rl-ADP3338AKCZ­3.3-RL-noseradi_ESP32-rescue
+#
+DEF ADP3338akcz-3.3-rl-ADP3338AKCZ­3.3-RL-noseradi_ESP32-rescue U 0 30 Y Y 1 F N
+F0 "U" 100 -250 50 H V C CNN
+F1 "ADP3338akcz-3.3-rl-ADP3338AKCZ­3.3-RL-noseradi_ESP32-rescue" 0 250 50 H V C CNN
+F2 "TO_SOT_Packages_SMD:SOT-223" 0 -350 50 H I C CNN
+F3 "" 100 -250 50 H I C CNN
+$FPLIST
+ SOT-223*
+$ENDFPLIST
+DRAW
+S -200 -200 200 200 0 1 10 f
+X GND/ADJ 1 0 -300 100 U 50 50 1 1 W
+X VO 2 300 0 100 L 50 50 1 1 w
+X VI 3 -300 0 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# Conn_01x01
+#
+DEF Conn_01x01 J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x01" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_??x*mm*
+ Connector*:*1x??x*mm*
+ Pin?Header?Straight?1X*
+ Pin?Header?Angled?1X*
+ Socket?Strip?Straight?1X*
+ Socket?Strip?Angled?1X*
+$ENDFPLIST
+DRAW
+S -50 5 0 -5 1 1 6 N
+S -50 50 50 -50 1 1 10 f
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x01-M5_Universal_v02-rescue
+#
+DEF Conn_01x01-M5_Universal_v02-rescue J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x01-M5_Universal_v02-rescue" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_??x*mm*
+ Connector*:*1x??x*mm*
+ Pin?Header?Straight?1X*
+ Pin?Header?Angled?1X*
+ Socket?Strip?Straight?1X*
+ Socket?Strip?Angled?1X*
+$ENDFPLIST
+DRAW
+S -50 5 0 -5 1 1 6 N
+S -50 50 50 -50 1 1 10 f
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_01x01-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF Conn_01x01-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Conn_01x01-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_??x*mm*
+ Connector*:*1x??x*mm*
+ Pin?Header?Straight?1X*
+ Pin?Header?Angled?1X*
+ Socket?Strip?Straight?1X*
+ Socket?Strip?Angled?1X*
+$ENDFPLIST
+DRAW
+S -50 5 0 -5 1 1 6 N
+S -50 50 50 -50 1 1 10 f
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_02x15_Odd_Even
+#
+DEF Conn_02x15_Odd_Even J 0 40 Y N 1 F N
+F0 "J" 50 800 50 H V C CNN
+F1 "Conn_02x15_Odd_Even" 50 -800 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*2x??x*mm*
+ Connector*:*2x???Pitch*
+ Pin_Header_Straight_2X*
+ Pin_Header_Angled_2X*
+ Socket_Strip_Straight_2X*
+ Socket_Strip_Angled_2X*
+$ENDFPLIST
+DRAW
+S -50 -695 0 -705 1 1 6 N
+S -50 -595 0 -605 1 1 6 N
+S -50 -495 0 -505 1 1 6 N
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 305 0 295 1 1 6 N
+S -50 405 0 395 1 1 6 N
+S -50 505 0 495 1 1 6 N
+S -50 605 0 595 1 1 6 N
+S -50 705 0 695 1 1 6 N
+S -50 750 150 -750 1 1 10 f
+S 150 -695 100 -705 1 1 6 N
+S 150 -595 100 -605 1 1 6 N
+S 150 -495 100 -505 1 1 6 N
+S 150 -395 100 -405 1 1 6 N
+S 150 -295 100 -305 1 1 6 N
+S 150 -195 100 -205 1 1 6 N
+S 150 -95 100 -105 1 1 6 N
+S 150 5 100 -5 1 1 6 N
+S 150 105 100 95 1 1 6 N
+S 150 205 100 195 1 1 6 N
+S 150 305 100 295 1 1 6 N
+S 150 405 100 395 1 1 6 N
+S 150 505 100 495 1 1 6 N
+S 150 605 100 595 1 1 6 N
+S 150 705 100 695 1 1 6 N
+X Pin_1 1 -200 700 150 R 50 50 1 1 P
+X Pin_10 10 300 300 150 L 50 50 1 1 P
+X Pin_11 11 -200 200 150 R 50 50 1 1 P
+X Pin_12 12 300 200 150 L 50 50 1 1 P
+X Pin_13 13 -200 100 150 R 50 50 1 1 P
+X Pin_14 14 300 100 150 L 50 50 1 1 P
+X Pin_15 15 -200 0 150 R 50 50 1 1 P
+X Pin_16 16 300 0 150 L 50 50 1 1 P
+X Pin_17 17 -200 -100 150 R 50 50 1 1 P
+X Pin_18 18 300 -100 150 L 50 50 1 1 P
+X Pin_19 19 -200 -200 150 R 50 50 1 1 P
+X Pin_2 2 300 700 150 L 50 50 1 1 P
+X Pin_20 20 300 -200 150 L 50 50 1 1 P
+X Pin_21 21 -200 -300 150 R 50 50 1 1 P
+X Pin_22 22 300 -300 150 L 50 50 1 1 P
+X Pin_23 23 -200 -400 150 R 50 50 1 1 P
+X Pin_24 24 300 -400 150 L 50 50 1 1 P
+X Pin_25 25 -200 -500 150 R 50 50 1 1 P
+X Pin_26 26 300 -500 150 L 50 50 1 1 P
+X Pin_27 27 -200 -600 150 R 50 50 1 1 P
+X Pin_28 28 300 -600 150 L 50 50 1 1 P
+X Pin_29 29 -200 -700 150 R 50 50 1 1 P
+X Pin_3 3 -200 600 150 R 50 50 1 1 P
+X Pin_30 30 300 -700 150 L 50 50 1 1 P
+X Pin_4 4 300 600 150 L 50 50 1 1 P
+X Pin_5 5 -200 500 150 R 50 50 1 1 P
+X Pin_6 6 300 500 150 L 50 50 1 1 P
+X Pin_7 7 -200 400 150 R 50 50 1 1 P
+X Pin_8 8 300 400 150 L 50 50 1 1 P
+X Pin_9 9 -200 300 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_02x15_Odd_Even-M5_Universal_v02-rescue
+#
+DEF Conn_02x15_Odd_Even-M5_Universal_v02-rescue J 0 40 Y N 1 F N
+F0 "J" 50 800 50 H V C CNN
+F1 "Conn_02x15_Odd_Even-M5_Universal_v02-rescue" 50 -800 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*2x??x*mm*
+ Connector*:*2x???Pitch*
+ Pin_Header_Straight_2X*
+ Pin_Header_Angled_2X*
+ Socket_Strip_Straight_2X*
+ Socket_Strip_Angled_2X*
+$ENDFPLIST
+DRAW
+S -50 -695 0 -705 1 1 6 N
+S -50 -595 0 -605 1 1 6 N
+S -50 -495 0 -505 1 1 6 N
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 305 0 295 1 1 6 N
+S -50 405 0 395 1 1 6 N
+S -50 505 0 495 1 1 6 N
+S -50 605 0 595 1 1 6 N
+S -50 705 0 695 1 1 6 N
+S -50 750 150 -750 1 1 10 f
+S 150 -695 100 -705 1 1 6 N
+S 150 -595 100 -605 1 1 6 N
+S 150 -495 100 -505 1 1 6 N
+S 150 -395 100 -405 1 1 6 N
+S 150 -295 100 -305 1 1 6 N
+S 150 -195 100 -205 1 1 6 N
+S 150 -95 100 -105 1 1 6 N
+S 150 5 100 -5 1 1 6 N
+S 150 105 100 95 1 1 6 N
+S 150 205 100 195 1 1 6 N
+S 150 305 100 295 1 1 6 N
+S 150 405 100 395 1 1 6 N
+S 150 505 100 495 1 1 6 N
+S 150 605 100 595 1 1 6 N
+S 150 705 100 695 1 1 6 N
+X Pin_1 1 -200 700 150 R 50 50 1 1 P
+X Pin_10 10 300 300 150 L 50 50 1 1 P
+X Pin_11 11 -200 200 150 R 50 50 1 1 P
+X Pin_12 12 300 200 150 L 50 50 1 1 P
+X Pin_13 13 -200 100 150 R 50 50 1 1 P
+X Pin_14 14 300 100 150 L 50 50 1 1 P
+X Pin_15 15 -200 0 150 R 50 50 1 1 P
+X Pin_16 16 300 0 150 L 50 50 1 1 P
+X Pin_17 17 -200 -100 150 R 50 50 1 1 P
+X Pin_18 18 300 -100 150 L 50 50 1 1 P
+X Pin_19 19 -200 -200 150 R 50 50 1 1 P
+X Pin_2 2 300 700 150 L 50 50 1 1 P
+X Pin_20 20 300 -200 150 L 50 50 1 1 P
+X Pin_21 21 -200 -300 150 R 50 50 1 1 P
+X Pin_22 22 300 -300 150 L 50 50 1 1 P
+X Pin_23 23 -200 -400 150 R 50 50 1 1 P
+X Pin_24 24 300 -400 150 L 50 50 1 1 P
+X Pin_25 25 -200 -500 150 R 50 50 1 1 P
+X Pin_26 26 300 -500 150 L 50 50 1 1 P
+X Pin_27 27 -200 -600 150 R 50 50 1 1 P
+X Pin_28 28 300 -600 150 L 50 50 1 1 P
+X Pin_29 29 -200 -700 150 R 50 50 1 1 P
+X Pin_3 3 -200 600 150 R 50 50 1 1 P
+X Pin_30 30 300 -700 150 L 50 50 1 1 P
+X Pin_4 4 300 600 150 L 50 50 1 1 P
+X Pin_5 5 -200 500 150 R 50 50 1 1 P
+X Pin_6 6 300 500 150 L 50 50 1 1 P
+X Pin_7 7 -200 400 150 R 50 50 1 1 P
+X Pin_8 8 300 400 150 L 50 50 1 1 P
+X Pin_9 9 -200 300 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Conn_02x15_Odd_Even-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF Conn_02x15_Odd_Even-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue J 0 40 Y N 1 F N
+F0 "J" 50 800 50 H V C CNN
+F1 "Conn_02x15_Odd_Even-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 50 -800 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*2x??x*mm*
+ Connector*:*2x???Pitch*
+ Pin_Header_Straight_2X*
+ Pin_Header_Angled_2X*
+ Socket_Strip_Straight_2X*
+ Socket_Strip_Angled_2X*
+$ENDFPLIST
+DRAW
+S -50 -695 0 -705 1 1 6 N
+S -50 -595 0 -605 1 1 6 N
+S -50 -495 0 -505 1 1 6 N
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 305 0 295 1 1 6 N
+S -50 405 0 395 1 1 6 N
+S -50 505 0 495 1 1 6 N
+S -50 605 0 595 1 1 6 N
+S -50 705 0 695 1 1 6 N
+S -50 750 150 -750 1 1 10 f
+S 150 -695 100 -705 1 1 6 N
+S 150 -595 100 -605 1 1 6 N
+S 150 -495 100 -505 1 1 6 N
+S 150 -395 100 -405 1 1 6 N
+S 150 -295 100 -305 1 1 6 N
+S 150 -195 100 -205 1 1 6 N
+S 150 -95 100 -105 1 1 6 N
+S 150 5 100 -5 1 1 6 N
+S 150 105 100 95 1 1 6 N
+S 150 205 100 195 1 1 6 N
+S 150 305 100 295 1 1 6 N
+S 150 405 100 395 1 1 6 N
+S 150 505 100 495 1 1 6 N
+S 150 605 100 595 1 1 6 N
+S 150 705 100 695 1 1 6 N
+X Pin_1 1 -200 700 150 R 50 50 1 1 P
+X Pin_10 10 300 300 150 L 50 50 1 1 P
+X Pin_11 11 -200 200 150 R 50 50 1 1 P
+X Pin_12 12 300 200 150 L 50 50 1 1 P
+X Pin_13 13 -200 100 150 R 50 50 1 1 P
+X Pin_14 14 300 100 150 L 50 50 1 1 P
+X Pin_15 15 -200 0 150 R 50 50 1 1 P
+X Pin_16 16 300 0 150 L 50 50 1 1 P
+X Pin_17 17 -200 -100 150 R 50 50 1 1 P
+X Pin_18 18 300 -100 150 L 50 50 1 1 P
+X Pin_19 19 -200 -200 150 R 50 50 1 1 P
+X Pin_2 2 300 700 150 L 50 50 1 1 P
+X Pin_20 20 300 -200 150 L 50 50 1 1 P
+X Pin_21 21 -200 -300 150 R 50 50 1 1 P
+X Pin_22 22 300 -300 150 L 50 50 1 1 P
+X Pin_23 23 -200 -400 150 R 50 50 1 1 P
+X Pin_24 24 300 -400 150 L 50 50 1 1 P
+X Pin_25 25 -200 -500 150 R 50 50 1 1 P
+X Pin_26 26 300 -500 150 L 50 50 1 1 P
+X Pin_27 27 -200 -600 150 R 50 50 1 1 P
+X Pin_28 28 300 -600 150 L 50 50 1 1 P
+X Pin_29 29 -200 -700 150 R 50 50 1 1 P
+X Pin_3 3 -200 600 150 R 50 50 1 1 P
+X Pin_30 30 300 -700 150 L 50 50 1 1 P
+X Pin_4 4 300 600 150 L 50 50 1 1 P
+X Pin_5 5 -200 500 150 R 50 50 1 1 P
+X Pin_6 6 300 500 150 L 50 50 1 1 P
+X Pin_7 7 -200 400 150 R 50 50 1 1 P
+X Pin_8 8 300 400 150 L 50 50 1 1 P
+X Pin_9 9 -200 300 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GND
+#
+DEF GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# GND-M5_Universal_v02-rescue
+#
+DEF GND-M5_Universal_v02-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "GND-M5_Universal_v02-rescue" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# GND-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF GND-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "GND-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Mounting_Hole
+#
+DEF Mounting_Hole MK 0 40 Y Y 1 F N
+F0 "MK" 0 200 50 H V C CNN
+F1 "Mounting_Hole" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Mounting?Hole*
+ Hole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# Mounting_Hole-M5_Universal_v02-rescue
+#
+DEF Mounting_Hole-M5_Universal_v02-rescue MK 0 40 Y Y 1 F N
+F0 "MK" 0 200 50 H V C CNN
+F1 "Mounting_Hole-M5_Universal_v02-rescue" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Mounting?Hole*
+ Hole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# Mounting_Hole-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF Mounting_Hole-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue MK 0 40 Y Y 1 F N
+F0 "MK" 0 200 50 H V C CNN
+F1 "Mounting_Hole-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Mounting?Hole*
+ Hole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# PWR_FLAG
+#
+DEF PWR_FLAG #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 75 50 H I C CNN
+F1 "PWR_FLAG" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
+X pwr 1 0 0 0 U 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+# PWR_FLAG-M5_Universal_v02-rescue
+#
+DEF PWR_FLAG-M5_Universal_v02-rescue #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 75 50 H I C CNN
+F1 "PWR_FLAG-M5_Universal_v02-rescue" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
+X pwr 1 0 0 0 U 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+# PWR_FLAG-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue
+#
+DEF PWR_FLAG-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 75 50 H I C CNN
+F1 "PWR_FLAG-M5_Universal_v02-rescue-M5_Atom2M-bus-rescue" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
+X pwr 1 0 0 0 U 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+# SOLDERJUMPER-M5_PCA9685_v02-rescue
+#
+DEF SOLDERJUMPER-M5_PCA9685_v02-rescue JP 0 100 Y Y 1 F N
+F0 "JP" 5 85 50 H I C CNN
+F1 "SOLDERJUMPER-M5_PCA9685_v02-rescue" 10 -85 30 H V C CNN
+F2 "" 0 0 40 H I C CNN
+F3 "" 0 0 40 H I C CNN
+$FPLIST
+ SOLDERJUMPER_ARROW
+$ENDFPLIST
+DRAW
+S -65 40 -15 -45 0 0 10 F
+S 15 40 60 -45 0 0 10 F
+P 2 0 0 6 -100 0 -65 0 N
+P 2 0 0 6 100 0 65 0 N
+X 1 1 -200 0 100 R 0 0 0 0 P
+X 2 2 200 0 100 L 0 0 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
